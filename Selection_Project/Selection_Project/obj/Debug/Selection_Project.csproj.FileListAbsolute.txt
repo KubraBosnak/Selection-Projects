@@ -1,0 +1,11 @@
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\bin\Debug\Selection_Project.exe.config
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\bin\Debug\Selection_Project.exe
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\bin\Debug\Selection_Project.pdb
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.FrmGiris.resources
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.FrmGrafikler.resources
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.Properties.Resources.resources
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.exe
+C:\Users\Kübra\source\repos\Selection_Project\Selection_Project\obj\Debug\Selection_Project.pdb
